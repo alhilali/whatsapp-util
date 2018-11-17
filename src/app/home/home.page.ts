@@ -10,7 +10,7 @@ export class HomePage {
 
 
   openWhatsapp() {
-    window.open("https://wa.me/" + this.number);
+    window.open("https://wa.me/966" + this.number);
   }
 
 }
